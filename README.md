@@ -12,4 +12,5 @@ Fourth commit - commit to ref/for/master
 7th - push config string
 push = HEAD:refs/for/master
 pushurl = ssh://<user name>@review.gerrithub.io:29418/project_name.git
+8th - commit to refs/heads/*
 
